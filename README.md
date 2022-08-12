@@ -1,16 +1,9 @@
 # flutter_travel_ui
 
-A new Flutter project.
+-
+-
+watch design tutorial on Youtube:https://youtu.be/2TpMu9XNd9k
+-
+-
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![fnbdf](https://user-images.githubusercontent.com/78899995/184318532-86c90a1d-d95a-4a27-a829-4037a0c672e0.jpg)
